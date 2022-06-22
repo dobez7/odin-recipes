@@ -1,0 +1,56 @@
+.lasagne,
+.ppch {
+    
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+
+    
+}
+
+.lasagne {
+    color:black;
+    background-color: red;
+    text-align: center;
+
+}
+
+.ppch {
+    color: white;
+    background-color: blue;
+}
+
+.title,
+.description1 {
+    color: black;
+    background-color: red;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:700;
+    font-size: 30px;
+}
+
+.lasagnepic {
+    height: auto;
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+.lasagnetext,
+.lasagnelist,
+.lasagnesteps {
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.lasagneingredientstitle,
+.lasagnestepstitle {
+    background-color: red;
+    
+}
+
+
