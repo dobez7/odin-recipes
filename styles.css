@@ -1,0 +1,39 @@
+.ppchtitle {
+    color: white;
+    background-color: blue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:700;
+    font-size: 30px;
+}
+
+.pastapicture {
+    height: auto;
+    width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.pastadescriptiontitle,
+.pastaingredientstitle,
+.pastastepstitle {
+    color: white;
+    background-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:700;
+    font-size: 30px;
+}
+
+
+.pastastepstext,
+.pastaingredientstext,
+.pastadescriptiontext {
+
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+
